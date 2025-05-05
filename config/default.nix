@@ -30,9 +30,9 @@
     number = true;
     relativenumber = true;
 
-    tabstop = 2;
-    softtabstop = 2;
-    shiftwidth = 2;
+    tabstop = 4;
+    softtabstop = 4;
+    shiftwidth = 4;
     expandtab = true;
 
     swapfile = false;
